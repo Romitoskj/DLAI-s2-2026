@@ -91,5 +91,7 @@ Tue 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2026/raw
 Wed 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/DLAI-s2-2026/raw/main/03_linalg/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/DLAI-s2-2026/raw/main/03_linalg/03b-matrix.pdf) |
 Tue 03 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/04_linear/04-linear.pdf) |
 Wed 04 Mar | Tensor basics and Tensor operations | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/01_Tensor_basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/02_Tensor_operations.ipynb)
+Tue 10 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/05_nonlinear/05-nonlinear.pdf) |
+Wed 11 Mar | Linear models and Pytorch Datasets | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/03_Linear_models_and_Pytorch_Datasets.ipynb)
 
 **End**
