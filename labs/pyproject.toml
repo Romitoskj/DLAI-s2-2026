@@ -13,4 +13,6 @@ dependencies = [
     "scikit-image>=0.26.0",
     "scikit-learn>=1.8.0",
     "torch>=2.10.0",
+    "torchvision>=0.25.0",
+    "tqdm>=4.67.3",
 ]
