@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2025/2026, Dept. of Computer Science
 
 ## News 🗞️
+- **13/04/2026:** The **project topics and guidelines** have been published. Scroll down for details.
 - **30/03/2026:** No lecture on **April 7-8-14** due to Easter holidays and exam sessions. The lecture of **April 15 will not be a lab**, so make sure to be there!
 - **10/02/2026:** The course website is online. Welcome to DLAI 2025/26! **The course will start on Tue 24th February**.
 
@@ -62,7 +63,9 @@ Evaluation proceeds according to the following steps:
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
-- Project list: *TBD*
+- Project list: Check the [guidelines](https://github.com/erodola/DLAI-s2-2026/raw/main/guidelines.pdf).
+- The template for the final project report is [here](https://github.com/erodola/DLAI-s2-2026/raw/main/template.zip).
+- Please read the material above carefully!
 
 ## Past exams 📑 
 
@@ -103,6 +106,11 @@ Wed 01 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.r
 Tue 07 Apr | **Easter holidays** |  |  
 Wed 08 Apr | **No teaching due to exam sessions** |  |  
 Tue 14 Apr | **No teaching due to exam sessions** |  |  
-Wed 15 Apr | *TBD* |  |  
+Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
+Tue 21 Apr | Engineering Seminar: Alessandro Bartolocci -- CUDA Architecture, Memory and Kernel Optimization | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/11_gpu/11_gpu.pdf) |
+Wed 22 Apr | Research Seminar: Daniele Solombrino -- Quantization and Pruning | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/10_quantization/Quantization%20-%20Part%20I.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/08a_Pruning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/08b_Quantization.ipynb)
+Tue 28 Apr | Engineering Seminar: Alessandro Bartolocci | |
+Wed 29 Apr | Uncertainty, regularization and the deep learning toolset ; Batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/09_regular/09-regular.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/07b_Batchnorm_and_dropout.ipynb)
+
 
 **End**
